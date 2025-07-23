@@ -8,7 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KuraKiyuko/ticket-lifecycle)
  
 - <b>Active Directory</b>
-  - [Creating Active Directory infrastructure](https://github.com/KuraKiyuko/ad-prereqs)
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/KuraKiyuko/ad-prereqs)
+  - [Deploying Active Directory](https://github.com/KuraKiyuko/deploying-ad)
   
 <h2>🤳Connect with me:</h2>
 
