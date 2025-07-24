@@ -9,7 +9,7 @@
  
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/KuraKiyuko/ad-prereqs)
-  - [Deploying Active Directory in Azure VMs](https://github.com/KuraKiyuko/deploying-ad)
+  - [Deploying Active Directory within Azure VMs](https://github.com/KuraKiyuko/deploying-ad)
   
 <h2>🤳Connect with me:</h2>
 
